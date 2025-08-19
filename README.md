@@ -9,7 +9,7 @@
 Note that you can customize recording duration for each triggered sample, sample rate, file name, and destination path of the file in the recording script.
 
 
-3. Refer to the terminal output as the recording goes on, hit the stop button on Waveform SDK or use the terminal command Ctrl + C to terminate the recording. The recordings will be stored in a csv format within a folder named after the variable "date". Each recording contains a 3 ms frame of data after the trigger is received.
+3. Refer to the terminal output as the recording goes on, hit the stop button on Waveform SDK or use the terminal command Ctrl + C to terminate the recording. The recordings will be stored in .csv within a folder named after the variable "date". Each recording contains a 3 ms frame of data.
 
 
 ## Note
