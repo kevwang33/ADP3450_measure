@@ -2,7 +2,7 @@ var date = "08_21_2025"
 var dst_path = "/Users/zhiyuan/Documents/DAQ_RL/"
 var filename = "test_recording"
 var recording_duration_s = 3e-3
-Scope1.Trigger.Source.text = "Channel 1" //channel to read the signal 
+Scope1.Trigger.Source.text = "Channel 1" //channel to read the trigger signal 
 //trigger signal type def
 Scope1.Trigger.Type.text = "Edge" 
 Scope1.Trigger.Condition.text = "Falling"
